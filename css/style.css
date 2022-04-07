@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.body {
+    background-color: rgb(209, 212, 212);
+    font-family: Verdana;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.titulo-2 {
+    text-align: center;
+    margin-top: 0%;
+}
+
+.textos {
+    text-align: right;
+    size: 12px;
+}
+
+.borda {
+    background-color: rgb(98, 202, 202);
+    height: 30px;
+    width: auto;
+}
+
+.linha {
+    background-color: rgb(26, 26, 26);
+    height: 3px;
+    width: auto;
+    margin-top: 20px;
+}
+
+.container-contato {
+    height: auto;
+    background-color: aqua;
+}
